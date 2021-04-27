@@ -1,9 +1,9 @@
-package com.tong;
+package com.tong.racing;
 
 public class Racing {
     public static void main(String[] args) {
-        Horse h1=new Horse();
-        Horse h2=new Horse();
+        Horses h1=new Horses();
+        Horses h2=new Horses();
         h1.start();
         h2.start();
         }

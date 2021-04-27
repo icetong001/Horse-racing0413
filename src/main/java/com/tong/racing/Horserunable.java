@@ -1,4 +1,4 @@
-package com.tong;
+package com.tong.racing;
 
 public class Horserunable implements Runnable{
     @Override
